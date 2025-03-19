@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, my name is Moses Joseph 
+
+I'm a self-taught software engineer interested in all things web and code!
+
+- 🔭 I’m currently working on the [Atlus Discord Bot](https://github.com/Mos-Jos/Atlus-Discord-Bot), a bot designed to help players quickly identify the weaknesses of enemies in [Atlus](https://atlus.com/) RPGs.
+- 🌱 I’m currently learning how to program applications using Kotlin.
+- 👯 I’m looking to collaborate on web & mobile based projects.
+  - Reach out to me at mosesejoseph@gmail.com
 
 <!--
 **Mos-Jos/mos-jos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
